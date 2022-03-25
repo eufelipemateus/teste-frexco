@@ -41,7 +41,7 @@ netifaces==0.10.9
 numpy==1.19.4
 oauthlib==3.1.0
 openpyxl==3.0.9
-Pillow==8.0.1
+Pillow==9.0.1
 pop-transition==1.1.2
 protobuf==3.12.4
 pycairo==1.16.2
